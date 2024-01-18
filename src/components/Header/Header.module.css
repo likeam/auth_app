@@ -1,0 +1,24 @@
+.header{
+    background-color: lightslategray;
+    height: 15vh;
+    color: white;
+    padding: 4px;
+  
+}
+.headerText{
+    display: flex;
+    flex-direction: row;    
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.headerHeading{
+    font-size: larger;
+}
+.headerUl{
+    display: flex;
+
+}
+.headerLi{
+    margin: 8px;
+}
